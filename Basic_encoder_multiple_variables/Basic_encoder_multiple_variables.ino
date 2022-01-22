@@ -15,6 +15,10 @@
  * 
  * https://www.youtube.com/watch?v=Swr2Q1IFiBM&list=PLZ8dBTV2_5HSyOXhJ77d-iyt5Z_v_1DPM&index=29&ab_channel=WRKits * 
  * 
+ * ---------------------------------------------------------------
+ * 
+ * You can find this example: 
+ * https://github.com/andres-alippi/encoder-multiple-variables
  */
 
 #include <Encoder.h>
